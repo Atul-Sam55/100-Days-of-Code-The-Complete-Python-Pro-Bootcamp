@@ -1,0 +1,14 @@
+# 🎸 Band Name Generator 🎸
+# This program creates a fun band name using your city and pet name
+
+# Display a welcome message
+print("🎶 Welcome to the Band Name Generator 🎶\n")
+
+# Ask the user for the city they grew up in
+city = input("🏙️ Which city did you grow up in?\n")
+
+# Ask the user for their pet's name
+pet = input("🐶 What is the name of your pet?\n")
+
+# Generate and display the band name
+print("\n✨ Your band name could be: " + city + " " + pet + " ✨")
