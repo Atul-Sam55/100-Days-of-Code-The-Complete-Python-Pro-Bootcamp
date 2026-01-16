@@ -1,7 +1,4 @@
-# 🎸 Band Name Generator 🎸
-# This program creates a fun band name using your city and pet name
 
-# Display a welcome message
 print("🎶 Welcome to the Band Name Generator 🎶\n")
 
 # Ask the user for the city they grew up in
